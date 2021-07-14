@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋 Welcome to my GitHub! I'm Amado Abaca, frontend developer
+
+<p>
+  <a href="https://twitter.com/bryandresimba" target="_blank">
+    <img alt="Twitter: bryandresimba" src="https://img.shields.io/twitter/follow/bryandresimba.svg?style=social" />
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/bryan-imbaquingo-almagro-636a90168/" target="_blank">
+    <img alt="LinkedIn: Bryan Imbaquingo Almagro" src="https://img.shields.io/badge/-bimbaquingo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bryan-imbaquingo-almagro-636a90168/" />
+  </a>
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=bimbaquingoch.bimbaquingoch)
