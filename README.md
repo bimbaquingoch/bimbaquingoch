@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://visitor-badge.glitch.me/badge?page_id=bimbaquingoch.bimbaquingoch)
 
 <p align="center">
   <a href="https://twitter.com/bryandresimba" target="_blank">
