@@ -1,4 +1,4 @@
-## Hi! ฅ^•ﻌ•^ฅ Welcome to my GitHub! I'm Bryan Imbaquingo, frontend developer ฅ^•ﻌ•^ฅ
+ฅ^•ﻌ•^ฅ
 <!--
 **bimbaquingoch/bimbaquingoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=bimbaquingoch.bimbaquingoch)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;ฅ^•ﻌ•^ฅ;This+is+Gokyan;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=bimbaquingoch.bimbaquingoch">
 <p align="center">
   <a href="https://twitter.com/bryandresimba" target="_blank">
     <img alt="Twitter: bryandresimba" src="https://img.shields.io/twitter/follow/bryandresimba.svg?style=social" />
