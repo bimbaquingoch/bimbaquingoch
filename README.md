@@ -7,6 +7,7 @@
 </h1>
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=bimbaquingoch.bimbaquingoch">
+
 <p align="center">
   <a href="https://twitter.com/bryandresimba" target="_blank">
     <img alt="Twitter: bryandresimba" src="https://img.shields.io/twitter/follow/bryandresimba.svg?style=social" />
@@ -19,25 +20,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=bimbaquingoch&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/bimbaquingoch/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=bimbaquingoch&theme=react&border=61dafb&hide_border=true" alt="bimbaquingoch" />
-    </a>
-    <a href="https://github.com/bimbaquingoch/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=bimbaquingoch&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/bimbaquingoch/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimbaquingoch&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
+<hr/>
+    <p align="center">
+      <img src="https://wakatime.com/share/@gokyan/c5745efb-916f-4520-816b-961bd6325bd4.svg"/>
+    </p>
+  <hr/>
+<p align="center">
+  <img align="left" width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=bimbaquingoch&theme=react&border=61dafb&hide_border=true" alt="bimbaquingoch" />
+  <img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=bimbaquingoch&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width=50% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimbaquingoch&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bimbaquingoch&repo=newNvcode&theme=react&border=61dafb&hide_border=true)](https://github.com/bimbaquingoch/newNvcode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bimbaquingoch&repo=ecommerce-React&theme=react&border=61dafb&hide_border=true)](https://github.com/bimbaquingoch/ecommerce-React)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bimbaquingoch&repo=authPiano&theme=react&border=61dafb&hide_border=true)](https://github.com/bimbaquingoch/authPiano)
