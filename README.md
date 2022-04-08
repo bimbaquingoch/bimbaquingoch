@@ -6,7 +6,6 @@
   </a>
 </h1>
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=bimbaquingoch.bimbaquingoch">
 
 <p align="center">
   <a href="https://twitter.com/bryandresimba" target="_blank">
