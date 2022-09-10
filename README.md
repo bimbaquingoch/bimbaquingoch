@@ -6,6 +6,8 @@
   </a>
 </h1>
 
+[![wakatime](https://wakatime.com/badge/user/8c6bd6d6-7465-4846-9028-dadaade13044/project/a0e1cbab-3852-4018-9e32-e0b902621c1f.svg)](https://wakatime.com/badge/user/8c6bd6d6-7465-4846-9028-dadaade13044/project/a0e1cbab-3852-4018-9e32-e0b902621c1f)
+
 
 <p align="center">
   <a href="https://twitter.com/bryandresimba" target="_blank">
