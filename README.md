@@ -21,14 +21,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <hr/>
-    <p align="center">
-      <img src="https://wakatime.com/share/@gokyan/c5745efb-916f-4520-816b-961bd6325bd4.svg"/>
-      <img src="https://wakatime.com/share/@gokyan/0edf8d52-737c-444b-bb53-8ca89105abdd.svg"/>
-      <img src="https://wakatime.com/share/@gokyan/27753227-2ac4-4122-bf1b-fa141c0a96d3.svg"/>      
-    </p>
-  <hr/>
-<p align="center">
-  <img align="left" width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=bimbaquingoch&theme=react&border=61dafb&hide_border=true" alt="bimbaquingoch" />
-  <img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=bimbaquingoch&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width=50% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimbaquingoch&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</p>
+    <section align="center">
+      <img width="100%" src="https://wakatime.com/share/@gokyan/27753227-2ac4-4122-bf1b-fa141c0a96d3.svg"/>
+      <img width="100%" src="https://wakatime.com/share/@gokyan/68bce4ce-33dc-407c-868c-ec5cd96fcc1a.svg"/>
+      <img align="right" width="100%" src="https://wakatime.com/share/@gokyan/b35b8556-4c5b-4a2d-b28f-f2d9399c7cc2.svg"/>
+      <img align="left" width="100%" src="https://wakatime.com/share/@gokyan/0edf8d52-737c-444b-bb53-8ca89105abdd.svg"/>
+    </section>
