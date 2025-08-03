@@ -20,12 +20,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=bimbaquingoch&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-<figure><embed src="https://wakatime.com/share/@gokyan/27753227-2ac4-4122-bf1b-fa141c0a96d3.svg"></embed></figure>
 <hr/>
     <p align="center">
       <img src="https://wakatime.com/share/@gokyan/c5745efb-916f-4520-816b-961bd6325bd4.svg"/>
+      <img src="https://wakatime.com/share/@gokyan/0edf8d52-737c-444b-bb53-8ca89105abdd.svg"/>
+      <img src="https://wakatime.com/share/@gokyan/27753227-2ac4-4122-bf1b-fa141c0a96d3.svg"/>      
     </p>
   <hr/>
 <p align="center">
