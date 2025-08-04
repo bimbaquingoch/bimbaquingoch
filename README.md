@@ -8,6 +8,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/8c6bd6d6-7465-4846-9028-dadaade13044/project/a0e1cbab-3852-4018-9e32-e0b902621c1f.svg)](https://wakatime.com/badge/user/8c6bd6d6-7465-4846-9028-dadaade13044/project/a0e1cbab-3852-4018-9e32-e0b902621c1f)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bimbaquingoch&label=Profile%20views&color=0e75b6&style=flat" alt="bimbaquingoch" /> </p>
 
 <p align="center">
   <a href="https://twitter.com/bryandresimba" target="_blank">
@@ -30,13 +31,3 @@
       <img width="100%" src="https://wakatime.com/share/@gokyan/b35b8556-4c5b-4a2d-b28f-f2d9399c7cc2.svg"/>
       <img width="100%" src="https://wakatime.com/share/@gokyan/0edf8d52-737c-444b-bb53-8ca89105abdd.svg"/>
     </section>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bimbaquingoch&label=Profile%20views&color=0e75b6&style=flat" alt="bimbaquingoch" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimbaquingoch" alt="bimbaquingoch" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimbaquingoch&show_icons=true&locale=en&layout=compact" alt="bimbaquingoch" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimbaquingoch&show_icons=true&locale=en" alt="bimbaquingoch" /></p>
-
-
